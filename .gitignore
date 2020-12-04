@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+epa_air_quality_annual_summary.csv
+city_temperature.csv
+year_over_year_aqi_data_v2.csv
