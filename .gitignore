@@ -131,6 +131,11 @@ dmypy.json
 epa_air_quality_annual_summary.csv
 city_temperature.csv
 year_over_year_aqi_data_v2.csv
+annual_conc_by_monitor_1995.csv
+annual_conc_by_monitor_1996.csv
+annual_conc_by_monitor_1997.csv
+annual_conc_by_monitor_1998.csv
+annual_conc_by_monitor_1999.csv
 annual_conc_by_monitor_2000.csv
 annual_conc_by_monitor_2001.csv
 annual_conc_by_monitor_2002.csv
