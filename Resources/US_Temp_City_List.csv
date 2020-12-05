@@ -1,0 +1,159 @@
+TempReading,State,City
+1450990,Alabama,Birmingham
+1460255,Alabama,Huntsville
+1469520,Alabama,Mobile
+1478785,Alabama,Montgomery
+1488050,Alaska,Anchorage
+1497315,Alaska,Fairbanks
+1506580,Alaska,Juneau
+1515845,Arizona,Flagstaff
+1519419,Arizona,Phoenix
+1528684,Arizona,Tucson
+1537949,Arizona,Yuma
+1542329,Arkansas,Fort Smith
+1551594,Arkansas,Little Rock
+1560859,California,Fresno
+1570124,California,Los Angeles
+1579389,California,Sacramento
+1588654,California,San Diego
+1597919,California,San Francisco
+1607184,Colorado,Colorado Springs
+1616449,Colorado,Denver
+1625714,Colorado,Grand Junction
+1634979,Colorado,Pueblo
+1644244,Connecticut,Bridgeport
+1653509,Connecticut,Hartford Springfield
+1662774,Delaware,Wilmington
+1668525,District of Columbia,Washington
+1687055,Maryland,Washington DC
+1705585,Florida,Daytona Beach
+1711336,Florida,Jacksonville
+1720601,Florida,Miami Beach
+1729866,Florida,Orlando
+1739131,Florida,Tallahassee
+1748396,Florida,Tampa St. Petersburg
+1757661,Florida,West Palm Beach
+1766926,Georgia,Atlanta
+1776191,Georgia,Columbus
+1785456,Georgia,Macon
+1794721,Georgia,Savannah
+1803986,Hawaii,Honolulu
+1813251,Idaho,Boise
+1822516,Idaho,Pocatello
+1831781,Illinois,Chicago
+1841046,Illinois,Peoria
+1850311,Illinois,Rockford
+1859576,Illinois,Springfield
+1868841,Indiana,Evansville
+1878106,Indiana,Fort Wayne
+1887371,Indiana,Indianapolis
+1896636,Indiana,South Bend
+1905901,Iowa,Des Moines
+1915166,Iowa,Sioux City
+1924431,Kansas,Goodland
+1933696,Kansas,Topeka
+1942961,Kansas,Wichita
+1952226,Kentucky,Lexington
+1961491,Kentucky,Louisville
+1970756,Kentucky,Paducah
+1980021,Louisiana,Baton Rouge
+1985819,Louisiana,Lake Charles
+1995084,Louisiana,New Orleans
+2004349,Louisiana,Shreveport
+2013614,Maine,Caribou
+2022879,Maine,Portland
+2032144,Maryland,Baltimore
+2041409,Massachusetts,Boston
+2050674,Michigan,Detroit
+2059939,Michigan,Flint
+2069204,Michigan,Grand Rapids
+2078469,Michigan,Lansing
+2087734,Michigan,Sault Ste Marie
+2096999,Minnesota,Duluth
+2106264,Minnesota,Minneapolis St. Paul
+2115529,Mississippi,Jackson
+2124794,Mississippi,Tupelo
+2134059,Missouri,Kansas City
+2143324,Missouri,Springfield
+2152589,Missouri,St Louis
+2161854,Montana,Billings
+2171119,Montana,Great Falls
+2180384,Montana,Helena
+2189648,Nebraska,Lincoln
+2198913,Nebraska,North Platte
+2208178,Nebraska,Omaha
+2217443,Nevada,Reno
+2226708,Nevada,Las Vegas
+2235973,New Hampshire,Concord
+2245238,New Jersey,Atlantic City
+2254503,New Jersey,Newark
+2263768,New Mexico,Albuquerque
+2273033,New York,Albany
+2282298,New York,Buffalo
+2291563,New York,New York City
+2300828,New York,Rochester
+2310093,New York,Syracuse
+2319358,North Carolina,Asheville
+2328623,North Carolina,Charlotte
+2337888,North Carolina,Greensboro
+2347153,North Carolina,Raleigh Durham
+2356418,North Dakota,Bismarck
+2365683,North Dakota,Fargo
+2374948,Ohio,Akron Canton
+2384213,Ohio,Cincinnati
+2393478,Ohio,Cleveland
+2402743,Ohio,Columbus
+2412008,Ohio,Dayton
+2421273,Ohio,Toledo
+2430538,Ohio,Youngstown
+2439803,Oklahoma,Oklahoma City
+2449068,Oklahoma,Tulsa
+2458333,Oregon,Eugene
+2467598,Oregon,Medford
+2476863,Oregon,Portland
+2486128,Oregon,Salem
+2495393,Pennsylvania,Allentown
+2504658,Pennsylvania,Erie
+2513923,Pennsylvania,Harrisburg
+2519674,Pennsylvania,Philadelphia
+2528939,Pennsylvania,Pittsburgh
+2538204,Pennsylvania,Wilkes Barre
+2547469,Rhode Island,Rhode Island
+2556734,South Carolina,Charleston
+2565999,South Carolina,Columbia
+2575264,South Dakota,Rapid City
+2584529,South Dakota,Sioux Falls
+2593794,Tennessee,Chattanooga
+2603059,Tennessee,Knoxville
+2612324,Tennessee,Memphis
+2621589,Tennessee,Nashville
+2630854,Texas,Abilene
+2640120,Texas,Amarillo
+2649385,Texas,Austin
+2658650,Texas,Brownsville
+2667915,Texas,Corpus Christi
+2677180,Texas,Dallas Ft Worth
+2686445,Texas,El Paso
+2695710,Texas,Houston
+2704975,Texas,Lubbock
+2714240,Texas,Midland Odessa
+2723505,Texas,San Angelo
+2732770,Texas,San Antonio
+2742035,Texas,Waco
+2751300,Texas,Wichita Falls
+2760565,Utah,Salt Lake City
+2769830,Vermont,Burlington
+2779095,Virginia,Norfolk
+2788360,Virginia,Richmond
+2797625,Virginia,Roanoke
+2806890,Washington,Seattle
+2816155,Washington,Spokane
+2825420,Washington,Yakima
+2834685,West Virginia,Charleston
+2843950,West Virginia,Elkins
+2853215,Wisconsin,Green Bay
+2862480,Wisconsin,Madison
+2871745,Wisconsin,Milwaukee
+2881010,Wyoming,Casper
+2890275,Wyoming,Cheyenne
+2899540,Additional Territories,San Juan Puerto Rico
