@@ -26,7 +26,7 @@ For the [`us_epa_analysis`](main/us_epa_analysis.ipynb) notebook, we loaded all 
 ..*'State Name',
 ..*'County Name',
 ..*'City Name'
-Each subsequent reading has the same columns with 2nd, 3rd, 4th, etc... Max Value and Max DateTime columns. 
+Each subsequent reading has the same columns with 2nd, 3rd, 4th, etc... Max Value and Max DateTime columns. You can find each reading here: First(Resources/US_EPA_1995_2020_first.zip), Second(Resources/US_EPA_1995_2020_second.zip), Third(Resources/US_EPA_1995_2020_third.zip), Fourth(Resources/US_EPA_1995_2020_fourth.zip). 
 
 ## Load
 ### Our Final Database, Tables/Collections, Why This Was Chosen
