@@ -5,7 +5,7 @@ This repository contains a group project that revolved around the concept of ETL
 
 ## Extract
 ### Original Data Sources and How Our Data Was Formatted
-Our original data came from two sources. The first, was a Kaggle dataset documenting `Daily Temperature of Major Cities`. The second was a collection of Pre-Generated Data files of Air Data from the US Environmental Protection Agency (EPA)'s website. You can find both of these sources in the [`Resources`](#Resources) folder of our repository under the `Daily Temperature of Major Cities` and `EPA_annual_conc_by_monitor` folders respectively. Each folder contains a zip of the data as well as a link which takes you to the source's page online. 
+Our original data came from two sources. The first, was a Kaggle dataset documenting `Daily Temperature of Major Cities`. The second was a collection of Pre-Generated Data files of Air Data from the US Environmental Protection Agency (EPA)'s website. You can find both of these sources in the [`Resources`](Resources) folder of our repository under the [`Daily Temperature of Major Cities`](Resources/Daily Temperature of Major Cities) and [`EPA_annual_conc_by_monitor`](Resources/EPA_annual_conc_by_monitor) folders respectively. Each folder contains a zip of the data as well as a link which takes you to the source's page online. 
 
 ## Transform
 ### Data Cleaning/Transformation That Was Required
