@@ -1,7 +1,7 @@
 # ETL Project Group 8
 
 ## Background
-This repository contains a group project that revolved around the concept of ETL (Extracting, Transforming and Loading). We were given a week to select 2 or more sources of data and work closely with our team through all phases of the ETL process. After looking through various datasets, our group decided upon doing data analysis on climate changes over time in the US in the last 25 years. 
+This repository contains a group project that revolved around the concept of *ETL (Extracting, Transforming and Loading)*. We were given a week to select *2 or more* sources of data and work closely with our team through all phases of the ETL process. After looking through various datasets, our group decided upon doing data analysis on climate changes over time in the US in the *last 25 years* (1995-2020). 
 
 ## Extract
 ### Original Data Sources and How Our Data Was Formatted
@@ -9,6 +9,9 @@ Our original data came from two sources. The first, was a Kaggle dataset documen
 
 ## Transform
 ### Data Cleaning/Transformation That Was Required
+While there was a lot of data in the Kaggle dataset concerning cities around the world, our team figured the best way to utilize both datasets was to focus solely on the US. 
+
+We first took both datasets and cleaned them up via separate Jupyter Notebooks. In the [`us_temp_analysis`](main/us_temp_analysis.ipynb) notebook, we used Pandas with the `Daily Temperature of Major Cities` data and kept only the US data rows and exported that dataframe as a CSV called [`US_Temp_1995_2020.csv`](Resources/US_Temp_City_List.csv). 
 
 ## Load
 ### Our Final Database, Tables/Collections, Why This Was Chosen
