@@ -11,7 +11,7 @@ Our original data came from two sources. The first, was a Kaggle dataset documen
 ### Data Cleaning/Transformation That Was Required
 While there was a lot of data in the Kaggle dataset concerning cities around the world, our team figured the best way to utilize both datasets was to focus solely on the US. 
 
-We first took both datasets and cleaned them up via separate Jupyter Notebooks. In the [`us_temp_analysis`](etl-project-group-8/blob/main/us_temp_analysis.ipynb) notebook, we used Pandas with the `Daily Temperature of Major Cities` data and kept only the US data rows and exported that dataframe as a CSV called `US_Temp_1995_2020.csv`. 
+We first took both datasets and cleaned them up via separate Jupyter Notebooks. In the [`us_temp_analysis`](main/us_temp_analysis.ipynb) notebook, we used Pandas with the `Daily Temperature of Major Cities` data and kept only the US data rows and exported that dataframe as a CSV called [`US_Temp_1995_2020.csv`](Resources/US_Temp_City_List.csv). 
 
 ## Load
 ### Our Final Database, Tables/Collections, Why This Was Chosen
