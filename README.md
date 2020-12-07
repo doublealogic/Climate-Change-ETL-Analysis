@@ -21,12 +21,16 @@ For the [`us_epa_analysis`](main/us_epa_analysis.ipynb) notebook, we loaded all 
 * 'Metric Used',
 * 'Method Name',
 * 'Units of Measure',
-* '1st Max Value',
-* '1st Max DateTime',
+* 'Max Value',
+* 'Max DateTime',
 * 'State Name',
 * 'County Name',
 * 'City Name'
-Each subsequent reading has the same columns with 2nd, 3rd, 4th, etc... Max Value and Max DateTime columns. You can find each reading here: [`First`](Resources/US_EPA_1995_2020_first.zip), [`Second`](Resources/US_EPA_1995_2020_second.zip), [`Third`](Resources/US_EPA_1995_2020_third.zip), [`Fourth`](Resources/US_EPA_1995_2020_fourth.zip). 
+You can find each reading here: [`First`](Resources/US_EPA_1995_2020_first.zip), [`Second`](Resources/US_EPA_1995_2020_second.zip), [`Third`](Resources/US_EPA_1995_2020_third.zip), [`Fourth`](Resources/US_EPA_1995_2020_fourth.zip). 
 
 ## Load
 ### Our Final Database, Tables/Collections, Why This Was Chosen
+
+In the final database, we pulled the US Temp Analysis data from Excel and transferred by each individual cell, read each cell for a row, combined it into rows and then imported the files into the database as two separate segments.
+
+As for the US EPA Analysis we imported all of the excel documents into Pandas and then loaded it as an "insert many" into MongoDB. 
