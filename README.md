@@ -63,3 +63,8 @@ From this chart it seems that ozone parts per million(ppm) varies greatly betwee
 
 We also extracted data from the temperature dataset for temperature readings in Indianapolis, IN. These readings were also averaged for each year and a line chart was created showing the variance in temperature readings over time. 
 
+Here is an image of the temperature line chart created from the data:
+
+![Indy Temperature Average Line Chart](Images/Avg_Indy_Temperatures.png)
+
+Looking at this chart, while it affirms that temperature varies greatly between years, there doesn't seem to be any positive or negative trend in the averages.
