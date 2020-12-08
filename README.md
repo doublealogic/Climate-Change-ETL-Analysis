@@ -51,3 +51,8 @@ Below is a picture representation of the MongoDB ClimateData:
 ![ClimateData Schema Picture](Images/ClimateData%20Schema.png)
 
 ## Analysis
+
+In order to demonstrate the data we placed into MongoDB, data was extracted from the EPA Dataset for ozone readings for Indianapolis, IN. Readings were averaged for each year and a line chart was created showing the parts per million ozone readings over time. 
+
+Below is an image of the line chart created from the data:
+![Indy Ozone Line Chart](Images/Indy_Ozone.png)
