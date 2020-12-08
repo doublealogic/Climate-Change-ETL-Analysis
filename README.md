@@ -45,6 +45,9 @@ You can find each reading here: [`First`](Resources/US_EPA_1995_2020_first.zip),
 
 In the final database, we pulled the US Temp Analysis data from Excel and transferred by each individual cell, read each cell for a row, combined it into rows and then imported the files into the database as two separate segments.
 
-As for the US EPA Analysis we imported all of the excel documents into Pandas and then loaded it as an "insert many" into MongoDB. 
+As for the US EPA Analysis data, we imported all of the excel documents into Pandas and then loaded it as an "insert many" into MongoDB. 
+
+Below is a picture representation of the MongoDB ClimateData:
+![ClimateData Schema Picture](Images/ClimateData%20Schema.png)
 
 ## Analysis
