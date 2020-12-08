@@ -48,6 +48,7 @@ In the final database, we pulled the US Temp Analysis data from Excel and transf
 As for the US EPA Analysis data, we imported all of the excel documents into Pandas and then loaded it as an "insert many" into MongoDB. 
 
 Below is a picture representation of the MongoDB ClimateData:
+
 ![ClimateData Schema Picture](Images/ClimateData%20Schema.png)
 
 ## Analysis
@@ -55,4 +56,9 @@ Below is a picture representation of the MongoDB ClimateData:
 In order to demonstrate the data we placed into MongoDB, data was extracted from the EPA Dataset for ozone readings for Indianapolis, IN. Readings were averaged for each year and a line chart was created showing the parts per million ozone readings over time. 
 
 Below is an image of the line chart created from the data:
+
 ![Indy Ozone Line Chart](Images/Indy_Ozone.png)
+
+From this chart it seems that ozone parts per million(ppm) varies greatly between years.
+
+We also extracted data from the temperature dataset for temperature readings in Indianapolis, IN. These readings were also averaged for each year and a line chart was created showing the variance in temperature readings over time. 
